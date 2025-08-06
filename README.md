@@ -25,16 +25,11 @@ Previsão Influenciada:
 - Mês previsto: 11
 
 Fator Influenciador:
-quant_expl     kt_lag1
-mês_expl            01
-sh2_expl            17
-sh4_expl          1700
-ncm_expl      17000000
-uf_expl             MG
-regin_expl        3101
-mun_expl       3106200
-importance    0.001083
-Name: 65, dtype: object
+   quant_expl mês_expl sh2_expl sh4_expl  ncm_expl uf_expl regin_expl  \
+65    kt_lag1       01       17     1700  17000000      MG       3101   
+
+   mun_expl  importance mês_target mun_target ncm_target anos_expl marca  
+65  3106200    0.001083         11    5102637   31022100         8   dif  
 
 
 
@@ -52,10 +47,25 @@ Previsão Influenciada:
 - Mês previsto: 04
 
 Fator Influenciador:
-quant_expl    MOP_lag6
-mês_expl            05
-importance     0.04734
-Name: 20, dtype: object
+   quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
+20   MOP_lag6       05     None     None     None    None       None     None   
+20   MOP_lag6       05     None     None     None    None       None     None   
+20   MOP_lag6       05     None     None     None    None       None     None   
+20   MOP_lag6       05     None     None     None    None       None     None   
+20   MOP_lag6       05     None     None     None    None       None     None   
+20   MOP_lag6       05     None     None     None    None       None     None   
+20   MOP_lag6       05     None     None     None    None       None     None   
+20   MOP_lag6       05     None     None     None    None       None     None   
+
+    importance mês_target mun_target ncm_target anos_expl marca  
+20     0.04734         04    5102637   31042090         8   dif  
+20     0.04734         04    5102637   31042090         8   dif  
+20     0.04734         04    5102637   31042090         8   dif  
+20     0.04734         04    5102637   31042090         8   dif  
+20     0.04734         04    5102637   31042090         8   dif  
+20     0.04734         04    5102637   31042090         8   dif  
+20     0.04734         04    5102637   31042090         8   dif  
+20     0.04734         04    5102637   31042090         8   dif  
 
 
 
