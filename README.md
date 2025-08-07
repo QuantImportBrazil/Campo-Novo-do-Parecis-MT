@@ -22,13 +22,13 @@ Fator de Influência em Destaque nos últimos 8 anos:
 Previsão Influenciada:
 - Município: Campo Novo do Parecis
 - Produto (NCM): Sulfato de amônio-31022100 
-- Mês previsto: 12
+- Mês: 12
 
 
 Fator Influenciador: Comércio Exterior
-- Produto Adubos (fertilizantes) (31)
-- UF SC
-- Unidade price_mun_lag25
+- Produto: Adubos (fertilizantes) (31)
+- UF: SC
+- Unidade: price_mun_lag25
 \n
 
 
@@ -41,13 +41,13 @@ Fator de Influência em Destaque nos últimos 8 anos:
 Previsão Influenciada:
 - Município: Campo Novo do Parecis
 - Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 05
+- Mês: 05
 
 
 Fator Influenciador: Comércio Exterior
-- Produto Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
-- UF MT
-- Unidade kt_lag12
+- Produto: Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
+- UF: MT
+- Unidade: kt_lag12
 \n
 
 
