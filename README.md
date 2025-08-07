@@ -22,14 +22,12 @@ Fator de Influência em Destaque:
 Previsão Influenciada:
 - Município: Campo Novo do Parecis
 - Produto (NCM): Sulfato de amônio-31022100 
-- Mês previsto: 11
+- Mês previsto: 02
 
-Fator Influenciador:
-   quant_expl mês_expl sh2_expl sh4_expl  ncm_expl uf_expl regin_expl  \
-65    kt_lag1       01       17     1700  17000000      MG       3101   
-
-   mun_expl  importance mês_target mun_target ncm_target anos_expl marca  
-65  3106200    0.001083         11    5102637   31022100         8   dif  
+        Fator Influenciador: Chuva
+        - Unidade mm_lag4
+        - Mês 11
+        - UF PA
 
 
 
@@ -44,28 +42,12 @@ Fator de Influência em Destaque:
 Previsão Influenciada:
 - Município: Campo Novo do Parecis
 - Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 04
+- Mês previsto: 03
 
-Fator Influenciador:
-   quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
-20   MOP_lag6       05     None     None     None    None       None     None   
-20   MOP_lag6       05     None     None     None    None       None     None   
-20   MOP_lag6       05     None     None     None    None       None     None   
-20   MOP_lag6       05     None     None     None    None       None     None   
-20   MOP_lag6       05     None     None     None    None       None     None   
-20   MOP_lag6       05     None     None     None    None       None     None   
-20   MOP_lag6       05     None     None     None    None       None     None   
-20   MOP_lag6       05     None     None     None    None       None     None   
-
-    importance mês_target mun_target ncm_target anos_expl marca  
-20     0.04734         04    5102637   31042090         8   dif  
-20     0.04734         04    5102637   31042090         8   dif  
-20     0.04734         04    5102637   31042090         8   dif  
-20     0.04734         04    5102637   31042090         8   dif  
-20     0.04734         04    5102637   31042090         8   dif  
-20     0.04734         04    5102637   31042090         8   dif  
-20     0.04734         04    5102637   31042090         8   dif  
-20     0.04734         04    5102637   31042090         8   dif  
+        Fator Influenciador: Chuva
+        - Unidade mm_uf
+        - Mês 03
+        - UF PA
 
 
 
