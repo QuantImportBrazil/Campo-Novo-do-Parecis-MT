@@ -25,10 +25,10 @@ Previsão Influenciada:
 - Mês previsto: 12
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Adubos (fertilizantes) (31)
-        - UF SC
-        - Unidade price_mun_lag25
+Fator Influenciador: Comércio Exterior
+- Produto Adubos (fertilizantes) (31)
+- UF SC
+- Unidade price_mun_lag25
 \n
 
 
@@ -44,10 +44,10 @@ Previsão Influenciada:
 - Mês previsto: 05
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
-        - UF MT
-        - Unidade kt_lag12
+Fator Influenciador: Comércio Exterior
+- Produto Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
+- UF MT
+- Unidade kt_lag12
 \n
 
 
