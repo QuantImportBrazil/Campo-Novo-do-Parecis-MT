@@ -29,7 +29,8 @@ Fator Influenciador: Comércio Exterior
 - Produto: Adubos (fertilizantes) (31)
 - UF: SC
 - Unidade: price_mun_lag25
-\n
+
+
 
 
 
@@ -48,6 +49,7 @@ Fator Influenciador: Comércio Exterior
 - Produto: Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens (12)
 - UF: MT
 - Unidade: kt_lag12
-\n
+
+
 
 
